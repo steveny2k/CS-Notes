@@ -1,7 +1,8 @@
 repo_name: steveny2k/CS-Notes
 report_id: 8c676899930e0ffc0966fc4b944e4d6d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:36:00+00:00'
+timestamp: '2024-01-05T08:55:07+00:00'
 requested_by: CyC2018
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/steveny2k/CS-Notes
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,7 +28,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source: docs/_style/prism-master/prism.js
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/components.js
+  detection_source: docs/_style/prism-master/components.js
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
 - name: Chai
@@ -39,7 +42,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: docs/_style/prism-master/package.json
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -51,6 +54,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/steveny2k/CS-Notes
   detection_source: Repo Metadata
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
@@ -63,7 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: docs/_style/prism-master/package.json
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -76,6 +80,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/.travis.yml
   detection_source: docs/_style/prism-master/.travis.yml
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -89,7 +94,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/844/iruTC031.png
-  detection_source_url: docs/_style/prism-master/package.json
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -101,6 +106,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -114,7 +120,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15973/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: docs/_style/prism-master/package.json
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -128,7 +134,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16259/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
-  detection_source_url: docs/_style/prism-master/package.json
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -142,7 +148,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
-  detection_source_url: docs/_style/prism-master/package.json
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -156,7 +162,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16150/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: docs/_style/prism-master/package.json
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -170,7 +176,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15910/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: docs/_style/prism-master/package.json
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
@@ -184,7 +190,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: docs/_style/prism-master/package.json
+  detection_source_url: https://github.com/steveny2k/CS-Notes/blob/master/docs/_style/prism-master/package.json
   detection_source: docs/_style/prism-master/package.json
   last_updated_by: CyC2018
   last_updated_on: 2018-12-19 06:09:39.000000000 Z
